@@ -39,11 +39,18 @@
 - [[04-Learning-Paths/Track-C-8yo-MicroPython/Track-C-Overview|Track C：8岁MicroPython进阶]]
 - [[04-Learning-Paths/Track-D-10yo-Advanced/Track-D-Overview|Track D：10-12岁竞赛冲刺]]
 
+### 🔍 [[00-Quick-Reference/关键词索引与FAQ|快速参考]]
+快速查找关键词和常见问题解答。
+- [[00-Quick-Reference/关键词索引与FAQ|关键词索引与FAQ]]
+- [[00-Quick-Reference/零件采购汇总|零件采购汇总]]
+
 ### 👨‍👩‍👧‍👦 [[05-Parent-Guide/儿童认知发展指南|家长指南]]
 帮助家长全面支持孩子的创客学习之旅。
 - [[05-Parent-Guide/儿童认知发展指南|儿童认知发展指南]]
 - [[05-Parent-Guide/电子安全指南|电子安全指南]]
 - [[05-Parent-Guide/竞赛备赛指南|竞赛备赛指南]]
+- [[05-Parent-Guide/学习路径调整指南|学习路径调整指南]]
+- [[05-Parent-Guide/多孩家庭学习指南|多孩家庭学习指南]]
 - [[05-Parent-Guide/中国创客资源大全|中国创客资源大全]]
 - [[05-Parent-Guide/开源课程资源|开源课程资源]]
 - [[05-Parent-Guide/学习评估方法|学习评估方法]]
@@ -140,6 +147,9 @@
 ```
 📁 maker-plan/
 ├── 📄 000-Home-MOC.md          ← 你在这里
+├── 📁 00-Quick-Reference/
+│   ├── 关键词索引与FAQ.md
+│   └── 零件采购汇总.md
 ├── 📁 01-White-List-Competitions/
 │   ├── 01-AI-Innovation-Challenge.md
 │   ├── 02-WRC-Robot-Design.md
@@ -162,6 +172,8 @@
     ├── 儿童认知发展指南.md
     ├── 电子安全指南.md
     ├── 竞赛备赛指南.md
+    ├── 学习路径调整指南.md
+    ├── 多孩家庭学习指南.md
     ├── 中国创客资源大全.md
     ├── 开源课程资源.md
     ├── 学习评估方法.md
