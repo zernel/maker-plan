@@ -205,11 +205,6 @@ sleep(1000)
 - [[04-Learning-Paths/Track-B-7yo/Node-11-LED编程]] - LED编程入门
 - [[04-Learning-Paths/Track-C-8yo-MicroPython/Node-20-灯光秀]] - 灯光秀项目
 
-### 相关概念
-- [[02-Concepts/RGB颜色模型]] - 颜色基础知识
-- [[02-Concepts/数据通信协议]] - 单线通信协议
-- [[02-Concepts/电流与功率]] - 电流计算
-
 ### 竞赛应用
 - [[01-White-List-Competitions/全国青少年科技创新大赛]] - 创意灯光项目
 

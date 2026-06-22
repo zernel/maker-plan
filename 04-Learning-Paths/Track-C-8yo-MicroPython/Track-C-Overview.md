@@ -93,6 +93,21 @@ C08 ESP32物联网入门 → C09 气象站项目 → C10 智能家居原型
 
 ---
 
+## 🎬 推荐视频教程
+
+### Bilibili 中文教程
+- [手把手教你学ESP32--基于MicroPython](https://www.bilibili.com/video/BV1n24y1Z7UU/) - 普中科技
+- [1小时入门Python物联网开发](https://www.bilibili.com/video/BV1xf421U7Nk/) - 创客孙老师（6集系列）
+- [麦克纳姆轮arduino智能小车系列](https://www.bilibili.com/video/BV1y94y1a79W/) - 星慈光（45+课）
+
+### YouTube 英文教程
+- [MicroPython on ESP32 Getting Started](https://www.youtube.com/watch?v=qoogOzSM0cM) - Electronic Clinic
+- [Line Follower with Obstacle Avoiding Robot](https://www.youtube.com/watch?v=4PQgjjOqJa4) - Muhammad Ansar（839K播放）
+
+👉 **更多视频请查看**：[[00-Quick-Reference/视频教程精选|视频教程精选]]
+
+---
+
 ## 🔗 相关链接
 
 - [[02-Concepts/计算思维]] - 计算思维基础
@@ -101,6 +116,7 @@ C08 ESP32物联网入门 → C09 气象站项目 → C10 智能家居原型
 - [[02-Concepts/实体计算]] - 实体计算教育
 - [[01-White-List-Competitions/]] - 白名单竞赛
 - [[03-Hardware-Sensors/]] - 硬件传感器参考
+- [[00-Quick-Reference/视频教程精选]] - 视频教程汇总
 
 ---
 

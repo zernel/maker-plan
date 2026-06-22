@@ -83,6 +83,20 @@ B08 循迹小车入门 ← B07 简易小车制作 ← B06 LED灯带控制 ← B0
 
 ---
 
+## 🎬 推荐视频教程
+
+### Bilibili 中文教程
+- [microbit基础教程(makecode)](https://www.bilibili.com/video/BV1r441197qP/) - 一一机器人工作室（311万播放）
+- [儿童机器人编程Microbit篇](https://www.bilibili.com/video/BV1FR4y1F7Pz/) - 孩子的二师兄（25集系列）
+
+### YouTube 英文教程
+- [Micro:bit Flashing Heart Tutorial](https://www.youtube.com/watch?v=hiERNxxfxJQ) - Microsoft MakeCode（267K播放）
+- [Science Buddies Micro:bit Series](https://www.youtube.com/playlist?list=PLlBVuTSjOrcnS-I-zERgyxHMcCRm6rvLM)
+
+👉 **更多视频请查看**：[[00-Quick-Reference/视频教程精选|视频教程精选]]
+
+---
+
 ## 🔗 相关链接
 
 - [[02-Concepts/实体计算]] - 实体计算教育理念
@@ -90,6 +104,7 @@ B08 循迹小车入门 ← B07 简易小车制作 ← B06 LED灯带控制 ← B0
 - [[02-Concepts/计算思维]] - 计算思维基础
 - [[03-Hardware-Sensors/]] - 硬件传感器参考
 - [[01-White-List-Competitions/]] - 白名单竞赛
+- [[00-Quick-Reference/视频教程精选]] - 视频教程汇总
 
 ---
 

@@ -46,9 +46,11 @@
 - [[00-Quick-Reference/关键词索引与FAQ|关键词索引与FAQ]]
 - [[00-Quick-Reference/零件采购汇总|零件采购汇总]]
 - [[00-Quick-Reference/进度追踪模板|进度追踪模板]]
+- [[00-Quick-Reference/视频教程精选|视频教程精选]] - YouTube/B站优质教程
 
 ### 👨‍👩‍👧‍👦 [[05-Parent-Guide/儿童认知发展指南|家长指南]]
 帮助家长全面支持孩子的创客学习之旅。
+- [[05-Parent-Guide/AI辅助科创教育指南|AI辅助科创教育指南]] 🆕
 - [[05-Parent-Guide/儿童认知发展指南|儿童认知发展指南]]
 - [[05-Parent-Guide/电子安全指南|电子安全指南]]
 - [[05-Parent-Guide/竞赛备赛指南|竞赛备赛指南]]
@@ -187,6 +189,7 @@
 │   ├── 📁 Track-C-8yo-MicroPython/  # 8岁MicroPython进阶
 │   └── 📁 Track-D-10yo-Advanced/    # 10-12岁竞赛冲刺
 └── 📁 05-Parent-Guide/
+    ├── AI辅助科创教育指南.md    🆕
     ├── 儿童认知发展指南.md
     ├── 电子安全指南.md
     ├── 竞赛备赛指南.md
@@ -208,6 +211,7 @@
 3. **遇到不懂的概念**，查 [[02-Concepts/创客教育|核心概念]]
 4. **需要硬件信息**，看 [[03-Hardware-Sensors/超声波传感器|硬件与传感器]]
 5. **家长支持**，看 [[05-Parent-Guide/儿童认知发展指南|家长指南]]
+6. **想用 AI 辅助学习**，看 [[05-Parent-Guide/AI辅助科创教育指南|AI辅助科创教育指南]]
 
 ---
 

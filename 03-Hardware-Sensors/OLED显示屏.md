@@ -189,11 +189,6 @@ oled.show()
 - [[04-Learning-Paths/Track-B-7yo/Node-12-显示与输出]] - 显示与输出课程
 - [[04-Learning-Paths/Track-C-8yo-MicroPython/Node-21-机器人表情]] - 机器人表情项目
 
-### 相关概念
-- [[02-Concepts/I2C通信协议]] - I2C通信基础
-- [[02-Concepts/OLED显示原理]] - OLED技术原理
-- [[02-Concepts/图形编程]] - 图形绘制基础
-
 ### 竞赛应用
 - [[01-White-List-Competitions/全国青少年科技创新大赛]] - 创意显示项目
 

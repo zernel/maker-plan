@@ -131,6 +131,20 @@ D08 竞赛项目实战 → D09 工程笔记与答辩 → D10 综合冲刺
 
 ---
 
+## 🎬 推荐视频教程
+
+### Bilibili 中文教程
+- [2023年最新 ESP32 Arduino 教程](https://www.bilibili.com/video/BV14q4y1N73P/) - 正点原子（139万播放）
+- [你不知道的ESP32与物联网](https://www.bilibili.com/video/BV1cm411o7Zt/) - 是锟酱呀（MQTT/ESP-NOW/WebServer）
+
+### YouTube 英文教程
+- [Build a Self-Balancing Robot with Arduino](https://www.youtube.com/watch?v=eud5v0AUQew) - Rachel De Barros
+- [Arduino Course for Everybody](https://www.youtube.com/watch?v=DPqiIzK97K0) - freeCodeCamp.org（170万播放）
+
+👉 **更多视频请查看**：[[00-Quick-Reference/视频教程精选|视频教程精选]]
+
+---
+
 ## 🔗 相关链接
 
 - [[02-Concepts/计算思维]] - 计算思维进阶
@@ -139,6 +153,7 @@ D08 竞赛项目实战 → D09 工程笔记与答辩 → D10 综合冲刺
 - [[01-White-List-Competitions/]] - 白名单竞赛
 - [[03-Hardware-Sensors/]] - 硬件传感器参考
 - [[05-Parent-Guide/竞赛备赛指南]] - 竞赛备赛指南
+- [[00-Quick-Reference/视频教程精选]] - 视频教程汇总
 
 ---
 
