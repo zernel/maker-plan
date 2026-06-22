@@ -16,8 +16,9 @@
 
 ### 🏆 [[01-White-List-Competitions/01-AI-Innovation-Challenge|白名单竞赛]]
 教育部认可的正规赛事，含金量高，升学加分有保障。
+- [[01-White-List-Competitions/竞赛日历2026-2027|竞赛日历2026-2027]]
 - [[01-White-List-Competitions/01-AI-Innovation-Challenge|全国青少年人工智能创新挑战赛]]
-- [[01-White-List-Competitions/02-WRC-Robot-Design|世界机器人大会青少年机器人设计与信息素养大赛]]
+- [[01-White-List-Competitions/02-WRC-Robot-Design|世界机器人大会青少年机器人设计大赛]]
 - [[01-White-List-Competitions/05-NOI-Informatics-Olympiad|全国中学生信息学奥林匹克竞赛(NOI)]]
 
 ### 💡 [[02-Concepts/创客教育|核心概念]]
@@ -25,12 +26,13 @@
 - [[02-Concepts/创客教育|创客教育]]
 - [[02-Concepts/计算思维|计算思维]]
 - [[02-Concepts/项目式学习|项目式学习]]
+- [[02-Concepts/设计思维|设计思维]]
 
 ### 🔧 [[03-Hardware-Sensors/超声波传感器|硬件与传感器]]
 了解常用开发板、传感器、执行器的技术细节。
 - [[03-Hardware-Sensors/超声波传感器|超声波传感器]]
-- [[03-Hardware-Sensors/Arduino|Arduino]]
-- [[03-Hardware-Sensors/microbit|micro:bit]]
+- [[03-Hardware-Sensors/舵机|舵机]]
+- [[03-Hardware-Sensors/LED灯带|LED灯带]]
 
 ### 📈 [[04-Learning-Paths/Track-A-4yo/Track-A-Overview|学习路径]]
 按年龄段规划的系统学习方案。
@@ -43,6 +45,7 @@
 快速查找关键词和常见问题解答。
 - [[00-Quick-Reference/关键词索引与FAQ|关键词索引与FAQ]]
 - [[00-Quick-Reference/零件采购汇总|零件采购汇总]]
+- [[00-Quick-Reference/进度追踪模板|进度追踪模板]]
 
 ### 👨‍👩‍👧‍👦 [[05-Parent-Guide/儿童认知发展指南|家长指南]]
 帮助家长全面支持孩子的创客学习之旅。
@@ -51,6 +54,7 @@
 - [[05-Parent-Guide/竞赛备赛指南|竞赛备赛指南]]
 - [[05-Parent-Guide/学习路径调整指南|学习路径调整指南]]
 - [[05-Parent-Guide/多孩家庭学习指南|多孩家庭学习指南]]
+- [[05-Parent-Guide/三人协作项目集|三人协作项目集]]
 - [[05-Parent-Guide/中国创客资源大全|中国创客资源大全]]
 - [[05-Parent-Guide/开源课程资源|开源课程资源]]
 - [[05-Parent-Guide/学习评估方法|学习评估方法]]
@@ -134,10 +138,11 @@
 | 概念 | 一句话解释 | 详细链接 |
 |------|------------|----------|
 | 创客教育 | 动手做、在做的过程中学习 | [[02-Concepts/创客教育]] |
-| STEM教育 | 科学、技术、工程、数学跨学科融合 | [[02-Concepts/STEM教育]] |
+| STEM教育 | 科学、技术、工程、数学跨学科融合 | [[02-Concepts/STEAM教育]] |
 | 计算思维 | 用计算机的方式思考和解决问题 | [[02-Concepts/计算思维]] |
 | 项目式学习 | 围绕真实项目展开的探究式学习 | [[02-Concepts/项目式学习]] |
 | 设计思维 | 以人为本的创新方法论 | [[02-Concepts/设计思维]] |
+| 做中学 | 通过动手实践来学习 | [[02-Concepts/做中学]] |
 | MicroPython语法 | Micro:bit和ESP32的Python编程参考 | [[02-Concepts/MicroPython语法参考]] |
 
 ---
@@ -149,8 +154,10 @@
 ├── 📄 000-Home-MOC.md          ← 你在这里
 ├── 📁 00-Quick-Reference/
 │   ├── 关键词索引与FAQ.md
-│   └── 零件采购汇总.md
+│   ├── 零件采购汇总.md
+│   └── 进度追踪模板.md
 ├── 📁 01-White-List-Competitions/
+│   ├── 竞赛日历2026-2027.md
 │   ├── 01-AI-Innovation-Challenge.md
 │   ├── 02-WRC-Robot-Design.md
 │   ├── 03-Youth-Drone-Competition.md
@@ -162,6 +169,17 @@
 │   ├── 09-AILD-Labor-Skills.md
 │   └── 10-AI-Digital-Art.md
 ├── 📁 02-Concepts/
+│   ├── 创客教育.md
+│   ├── STEAM教育.md
+│   ├── 计算思维.md
+│   ├── 项目式学习.md
+│   ├── 设计思维.md
+│   ├── 做中学.md
+│   ├── 建构主义.md
+│   ├── 不插电编程.md
+│   ├── 实体计算.md
+│   ├── 机器人教育.md
+│   └── MicroPython语法参考.md
 ├── 📁 03-Hardware-Sensors/
 ├── 📁 04-Learning-Paths/
 │   ├── 📁 Track-A-4yo/          # 4岁幼儿园启蒙
@@ -174,6 +192,7 @@
     ├── 竞赛备赛指南.md
     ├── 学习路径调整指南.md
     ├── 多孩家庭学习指南.md
+    ├── 三人协作项目集.md
     ├── 中国创客资源大全.md
     ├── 开源课程资源.md
     ├── 学习评估方法.md
