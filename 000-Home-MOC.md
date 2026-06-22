@@ -32,11 +32,12 @@
 - [[03-Hardware-Sensors/Arduino|Arduino]]
 - [[03-Hardware-Sensors/microbit|micro:bit]]
 
-### 📈 [[04-Learning-Paths/6-8岁入门路径|学习路径]]
+### 📈 [[04-Learning-Paths/Track-A-4yo/Track-A-Overview|学习路径]]
 按年龄段规划的系统学习方案。
-- [[04-Learning-Paths/6-8岁入门路径|6-8岁：启蒙阶段]]
-- [[04-Learning-Paths/8-10岁进阶路径|8-10岁：进阶阶段]]
-- [[04-Learning-Paths/10-12岁竞赛路径|10-12岁：竞赛冲刺]]
+- [[04-Learning-Paths/Track-A-4yo/Track-A-Overview|Track A：4岁幼儿园启蒙]]
+- [[04-Learning-Paths/Track-B-7yo/Track-B-Overview|Track B：7岁小学二年级入门]]
+- [[04-Learning-Paths/Track-C-8yo-MicroPython/Track-C-Overview|Track C：8岁MicroPython进阶]]
+- [[04-Learning-Paths/Track-D-10yo-Advanced/Track-D-Overview|Track D：10-12岁竞赛冲刺]]
 
 ### 👨‍👩‍👧‍👦 [[05-Parent-Guide/儿童认知发展指南|家长指南]]
 帮助家长全面支持孩子的创客学习之旅。
@@ -79,29 +80,45 @@
 
 ## 🧭 按年龄找方向
 
-### 🧒 6-8岁（1-2年级）
-**关键词：** 兴趣启蒙、图形化编程、简单搭建
+### 🧒 4-5岁（幼儿园）
+**关键词：** 触觉感知、空间建构、逻辑启蒙
 
 推荐路径：
-1. 入门 Scratch Jr / 编程猫
-2. 玩转 [[03-Hardware-Sensors/microbit|micro:bit]] 入门套件
+1. 大颗粒积木搭建（乐高 Coding Express）
+2. [[04-Learning-Paths/Track-A-4yo/A06-玛塔编程启蒙|玛塔创客]] 实体编程启蒙
+3. 不插电编程活动
+
+→ 完整路径：[[04-Learning-Paths/Track-A-4yo/Track-A-Overview|Track A]]
+
+### 👦 7-8岁（小学1-2年级）
+**关键词：** 兴趣激发、传感器认知、图形化编程
+
+推荐路径：
+1. [[04-Learning-Paths/Track-B-7yo/B01-Hello-Micro-bit|Micro:bit]] 入门套件
+2. 传感器互动实验（温度、光线、超声波）
 3. 参加 [[01-White-List-Competitions/03-Youth-Drone-Competition|无人机大赛]] 体验赛
 
-### 👦 8-10岁（3-4年级）
-**关键词：** 系统学习、硬件结合、初赛历练
+→ 完整路径：[[04-Learning-Paths/Track-B-7yo/Track-B-Overview|Track B]]
+
+### 👧 8-10岁（小学3-4年级）
+**关键词：** MicroPython、工程思维、竞赛入门
 
 推荐路径：
-1. Scratch 图形化编程深入
-2. [[03-Hardware-Sensors/Arduino|Arduino]] 基础项目
+1. [[04-Learning-Paths/Track-C-8yo-MicroPython/C01-MicroPython入门|MicroPython]] 文本编程
+2. 循迹/避障小车项目
 3. 参加 [[01-White-List-Competitions/02-WRC-Robot-Design|WRC机器人大赛]] 积累经验
 
-### 👩 10-12岁（5-6年级）
+→ 完整路径：[[04-Learning-Paths/Track-C-8yo-MicroPython/Track-C-Overview|Track C]]
+
+### 👩 10-12岁（小学5-6年级）
 **关键词：** 代码能力、竞赛冲刺、作品打磨
 
 推荐路径：
-1. Python / C++ 入门
+1. Python 进阶 / C++ 入门
 2. [[02-Concepts/计算思维|计算思维]] 系统训练
 3. 冲刺 [[01-White-List-Competitions/01-AI-Innovation-Challenge|人工智能创新挑战赛]] 等顶级赛事
+
+→ 完整路径：[[04-Learning-Paths/Track-D-10yo-Advanced/Track-D-Overview|Track D]]
 
 ---
 
@@ -114,6 +131,7 @@
 | 计算思维 | 用计算机的方式思考和解决问题 | [[02-Concepts/计算思维]] |
 | 项目式学习 | 围绕真实项目展开的探究式学习 | [[02-Concepts/项目式学习]] |
 | 设计思维 | 以人为本的创新方法论 | [[02-Concepts/设计思维]] |
+| MicroPython语法 | Micro:bit和ESP32的Python编程参考 | [[02-Concepts/MicroPython语法参考]] |
 
 ---
 
@@ -136,6 +154,10 @@
 ├── 📁 02-Concepts/
 ├── 📁 03-Hardware-Sensors/
 ├── 📁 04-Learning-Paths/
+│   ├── 📁 Track-A-4yo/          # 4岁幼儿园启蒙
+│   ├── 📁 Track-B-7yo/          # 7岁小学二年级
+│   ├── 📁 Track-C-8yo-MicroPython/  # 8岁MicroPython进阶
+│   └── 📁 Track-D-10yo-Advanced/    # 10-12岁竞赛冲刺
 └── 📁 05-Parent-Guide/
     ├── 儿童认知发展指南.md
     ├── 电子安全指南.md
@@ -151,7 +173,7 @@
 ## 💬 使用建议
 
 1. **先看 [[01-White-List-Competitions/01-AI-Innovation-Challenge|白名单竞赛]]**，了解哪些比赛值得投入
-2. **再看 [[04-Learning-Paths/6-8岁入门路径|学习路径]]**，找到孩子当前阶段的起点
+2. **再看 [[04-Learning-Paths/Track-A-4yo/Track-A-Overview|学习路径]]**，找到孩子当前阶段的起点
 3. **遇到不懂的概念**，查 [[02-Concepts/创客教育|核心概念]]
 4. **需要硬件信息**，看 [[03-Hardware-Sensors/超声波传感器|硬件与传感器]]
 5. **家长支持**，看 [[05-Parent-Guide/儿童认知发展指南|家长指南]]
@@ -162,4 +184,4 @@
 
 ---
 
-*最后更新：2026年6月*
+*最后更新：2026年6月22日*

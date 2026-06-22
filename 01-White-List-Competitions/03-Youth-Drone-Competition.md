@@ -188,8 +188,8 @@
 - [[03-Hardware-Sensors/超声波传感器|超声波传感器]]
 
 ### 学习路径
-- [[04-Learning-Paths/6-8岁入门路径|6-8岁入门路径]]
-- [[04-Learning-Paths/8-10岁进阶路径|8-10岁进阶路径]]
+- [[04-Learning-Paths/Track-A-4yo/Track-A-Overview|4岁幼儿园启蒙路径]]
+- [[04-Learning-Paths/Track-B-7yo/Track-B-Overview|7岁小学二年级路径]]
 
 ### 其他白名单赛事
 - [[01-White-List-Competitions/06-Aerospace-Innovation|全国青少年航天创新大赛]]

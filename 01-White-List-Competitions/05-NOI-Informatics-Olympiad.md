@@ -180,8 +180,8 @@ CSP-J/S（入门/提高） → NOIP（省级联赛） → NOI（全国决赛） 
 - [[03-Hardware-Sensors/microbit|micro:bit]]（编程入门）
 
 ### 学习路径
-- [[04-Learning-Paths/10-12岁竞赛路径|10-12岁竞赛路径]]
-- [[04-Learning-Paths/8-10岁进阶路径|8-10岁进阶路径]]
+- [[04-Learning-Paths/Track-D-10yo-Advanced/Track-D-Overview|10-12岁竞赛冲刺路径]]
+- [[04-Learning-Paths/Track-B-7yo/Track-B-Overview|7岁小学二年级路径]]
 
 ### 其他白名单赛事
 - [[01-White-List-Competitions/01-AI-Innovation-Challenge|人工智能创新挑战赛]]
